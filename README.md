@@ -27,6 +27,6 @@ It might include functionalities like:
 - Emitting events on state changes  
 
 Below is the Solidity code used in this project:
-
+ celo address 0xbdb69f2048274f2557491fbf2086c4f2a38be3e1
 ```solidity
 //paste your code
